@@ -3,6 +3,6 @@ use code php to update excel file
 
 ## Etapes
 
-  - Convertir le fichier excel en .csv
-  - Donner les permissions à tous les fichiers du dossier et au dossier aussi
-  - Run le code
+  - Convert excel file to .csv
+  - Give permissions to all files in the folder and to the folder too
+  - Run the code
